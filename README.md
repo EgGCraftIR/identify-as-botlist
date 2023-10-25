@@ -1,2 +1,2 @@
-# chocolate botlusr
+# chocolate botlist
 #Iranian botlist
