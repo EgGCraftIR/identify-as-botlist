@@ -1,2 +1,2 @@
-# farsi-botlist
-#farsi-list Discord Bot list
+# chocolate botlusr
+#Iranian botlist
